@@ -1,0 +1,18 @@
+# AWS Certificates and Keys
+certs/
+*.pem
+*.key
+*.crt
+*.csv
+
+# AWS CLI installer
+*.msi
+
+# Python virtual environment
+iot-env/
+__pycache__/
+*.pyc
+
+# Windows
+Thumbs.db
+desktop.ini
